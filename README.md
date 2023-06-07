@@ -23,9 +23,11 @@ Requisitos Funcionais :
 - Banco de dados
 - Camera para identificação do condomino no cadastro.
 
+Entradas necessárias :
+- Informações básicas para cadastro do morador
+- Informações básicas para cadastro do administrador
+- Informações sobre os itens de acesso comum dos condominos
 
-<!--
-quais as entradas necessárias, 
-qual o processamento que o app realiza
-quais os relatórios e saídas do seu app. 
--->
+Relatórios possiveis
+- No final de mês é possivel saber quais foram os condominos que alugaram os locais
+- Existe um relatorio apenas com as informações de cada morador/apartamento/casa
